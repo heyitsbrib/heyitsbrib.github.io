@@ -1,5 +1,6 @@
-# [kamranahmed.info](kamranahmed.info)
-My personal blog created using [github-pages-blog-action](https://github.com/kamranahmedse/github-pages-blog-action)
+# [heyitsbrib.github.io](heyitsbrib.github.io)
+
+A fork of [kamranahmed.info](https://github.com/kamranahmedse/kamranahmedse.github.io)
 
 ## Setting up your Blog
 

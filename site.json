@@ -1,29 +1,25 @@
 {
-  "title": "Kamran Ahmed",
-  "subtitle": "Lead engineer at tradeling — tech guy with an entrepreneurial spirit and knack for getting things done",
+  "title": "Brib's Test Blog",
+  "subtitle": "The test blog of an Internet rando",
   "owner": {
-    "name": "Kamran Ahmed",
-    "email": "kamranahmed.se@gmail.com"
-  },
-  "social": {
-    "github": "kamranahmedse",
-    "medium": "kamranahmedse",
-    "twitter": "kamranahmedse"
-  },
-  "newsletter": {
-    "showTwitterBanner": true,
-    "currentCount": "2,000",
-    "revueUsername": "roadmapsh"
+    "name": "brib",
+    "email": ""
   },
   "seo": {
-    "title": "Kamran Ahmed",
-    "description": "Blog of a Software Engineer",
-    "author": "Kamran Ahmed",
-    "keywords": [
-      "blog",
-      "developer blog",
-      "engineering blog"
-    ]
+    "title": "Brib's Test Blog",
+    "description": "The test blog of an Internet rando",
+    "author": "brib",
+    "keywords": []
   },
-  "cname": "kamranahmed.info"
+  "cname": "heyitsbrib.github.io",
+  "social": {
+    "github": "",
+    "medium": "",
+    "twitter": ""
+  },
+  "newsletter": {
+    "showTwitterBanner": false,
+    "currentCount": "0",
+    "revueUsername": ""
+  }
 }
